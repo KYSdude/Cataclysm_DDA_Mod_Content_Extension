@@ -2,8 +2,8 @@
   {
     "id": "pack_basket",
     "type": "ARMOR",
-    "name": "pack basket",
-    "description": "A large hand made straw basket, with shoulder straps to wear like a backpack.",
+    "name": "рюкзак из ведра",
+    "description": "Большой самодельный рюкзак из соломы. Вмещает много предметов .",
     "weight": 300,
     "volume": 12,
     "price": 1000,
@@ -21,9 +21,9 @@
   {
     "id": "sheath_birchbark",
     "type": "ARMOR",
-    "name": "birchbark sheath",
+    "name": "ножны из бересты",
     "name_plural": "birchbark sheathes",
-    "description": "A hand made sheath made from birch bark, for holding knives and other small blades.  Activate to sheathe/draw a weapon.",
+    "description": "Самодельные ножны из бересты,  Activate to sheathe/draw a weapon.",
     "weight": 200,
     "volume": 2,
     "price": 1500,
